@@ -1,0 +1,2 @@
+# FinishUrOwnOSKrnlPart1-4
+This is is an educational &amp;&amp; self-improved purpose project, There r 4 parts in this project including X86 architecture programming, Windows Programming in R0 &amp;&amp; R3, Build an operating system by ursel and last one is basic computer theory teaching. And the whole project has video in https://www.bilibili.com/video/av39640199, here is the code part in Github.
